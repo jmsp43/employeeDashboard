@@ -9,7 +9,8 @@ export default function EmployeeList() {
             <EmployeeListItem />
             <EmployeeListItem />
             <EmployeeListItem />
-            <EmployeeListItem />
+      <EmployeeListItem />
+      <div>View More</div>
     </div>
   )
 }

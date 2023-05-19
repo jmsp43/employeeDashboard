@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Header() {
+export default function Header({ page }) {
   return (
        <div className = 'header'>
-            <p>Says "Employee Page' or 'Employee'</p>
+      <p>Employee {page}</p>
     </div>
   )
 }

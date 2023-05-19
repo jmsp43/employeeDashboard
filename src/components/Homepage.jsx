@@ -6,7 +6,7 @@ import NavBar from './NavBar'
 export default function Homepage() {
   return (
        <div className = 'homepage'>
-            <Header />
+      <Header page={'Directory'} />
             <NavBar/>
             <EmployeeList/>
     </div>

@@ -6,7 +6,7 @@ import Header from './Header'
 export default function EmployeePage() {
   return (
        <div className = 'employeePage'>
-            <Header/>
+      <Header page={''} />
             <EmployeeListItem/>
     </div>
   )

@@ -36,3 +36,7 @@
 .employeeList{
   border: 1px solid rgb(177, 177, 245)
 }
+
+.employeeInfo{
+  margin: 5px;
+}
