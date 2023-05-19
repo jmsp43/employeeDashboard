@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border: 1px solid black;
+
+}
+
+.app{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.navBar{
+  border: 1px solid navy
+}
+
+.homepage{
+  border: 1px solid hotpink
+}
+
+.header{
+  border: 1px solid rgb(193, 251, 193)
+}
+
+.employeePage{
+  border: 1px solid peru;
+}
+
+.employee{
+  border: 1px solid yellow
+}
+
+.employeeList{
+  border: 1px solid rgb(177, 177, 245)
+}
