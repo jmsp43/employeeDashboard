@@ -39,4 +39,13 @@
 
 .employeeInfo{
   margin: 5px;
+  display:flex;
+  flex-direction: row;
+  padding: 10px;
 }
+
+.avatar{
+  margin-right: 3px;
+  border-radius: 20px 20px 20px 20px;
+}
+
